@@ -1,4 +1,5 @@
-## Hi :octocat:
+## Hi :cat:
+:octocat:
 
 <!--
 **mzafari2/mzafari2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
